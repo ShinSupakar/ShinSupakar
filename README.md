@@ -14,7 +14,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I'm a final-year **Electrical & Electronics Engineering** student at NTU Singapore, specialising in **Data Analytics and Machine Learning** with a **Minor in Business**.
 
@@ -28,7 +28,7 @@ I'm a final-year **Electrical & Electronics Engineering** student at NTU Singapo
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -76,11 +76,11 @@ I'm a final-year **Electrical & Electronics Engineering** student at NTU Singapo
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ---
 
-### 🌍 TerraWatch — Disaster Prediction & Response Platform
+### TerraWatch — Disaster Prediction & Response Platform
 
 > *FastAPI · YOLOv8 · Real-ESRGAN · PyTorch · Docker · React*
 
@@ -92,7 +92,7 @@ Production-style FastAPI backend for disaster prediction and response workflows.
 
 ---
 
-### 🖼️ Deep Learning Image Restoration System *(FYP — Ongoing)*
+### Deep Learning Image Restoration System *(FYP — Ongoing)*
 
 > *PyTorch · GANs · CNNs · Full-Stack*
 
@@ -100,7 +100,7 @@ Built and evaluated 3 ML models on a 3,500-image dataset, achieving a **+5.14 dB
 
 ---
 
-### 🧬 Clinical NLP Assistant
+### Clinical NLP Assistant
 
 > *BioBERT · spaCy · BiLSTM-CRF · BiGRU · BERT · BART · Streamlit*
 
@@ -108,7 +108,7 @@ End-to-end clinical NLP pipeline converting unstructured notes into structured S
 
 ---
 
-### 💰 FinSentient — AI-Powered Financial Intelligence Platform
+### FinSentient — AI-Powered Financial Intelligence Platform
 
 > *FastAPI · React · LLaMA 3 · Groq · Snowflake · Prophet*
 
@@ -120,7 +120,7 @@ Full-stack financial platform integrating LLM-driven behavioural finance insight
 
 ---
 
-### 💬 Sentiment Analysis — Three-Method Comparison
+### Sentiment Analysis — Three-Method Comparison
 
 > *BERT · TF-IDF · scikit-learn · PyTorch*
 
@@ -130,7 +130,7 @@ Implemented and compared TF-IDF + Logistic Regression, frozen BERT embeddings, a
 
 ---
 
-### 😴 Real-Time Driver Drowsiness Detection
+### Real-Time Driver Drowsiness Detection
 
 > *YOLOv8 · PyTorch · OpenCV · Pygame*
 
@@ -140,7 +140,7 @@ Real-time drowsiness detection system analysing live camera input for eye closur
 
 ---
 
-### 🏢 UBS D&I Platform
+### UBS D&I Platform
 
 > *React · Material UI · Python · MongoDB*
 
@@ -150,7 +150,7 @@ Full-stack Diversity & Inclusion platform built during the UBS Tomorrow's Talent
 
 ---
 
-## 💼 Experience Highlights
+## Experience Highlights
 
 | Company | Role | Period |
 |---|---|---|
@@ -165,7 +165,7 @@ Full-stack Diversity & Inclusion platform built during the UBS Tomorrow's Talent
 
 ---
 
-## 🏅 Achievements & Recognition
+## Achievements & Recognition
 
 - 🥇 **1st Place** — NTU Google Developer Group FinForge Hackathon 2025
 - 🥇 **1st Place** — NTU WIT x BAC Formula 1 Datathon 2024
